@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0cf6e3e2-40df-8a19-36c1-fff46ba3c117
 resourcetype: Document
 title: A Survey of Lynn Stakeholders Regarding Potential Waterfront Redevelopment
 uid: a110d9ce-6192-7760-cac7-8f5862a6365a
