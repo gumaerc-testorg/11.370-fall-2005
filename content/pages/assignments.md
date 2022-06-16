@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments and an example
+  of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -24,4 +26,4 @@ Student Work
 
 Five students in the course worked together on a final project, a survey tool and recommendations that served the needs of a real client, the Economic Development and Industrial Corporation of Lynn, MA. The report is presented below. All work is courtesy of the students named and used with permission.
 
-"A Survey of Lynn Stakeholders Regarding Potential Waterfront Redevelopment" - Luke Schray, Emmaia Gelman, Angela Meehan, Laura Machala, and Aaron Stelson ([PDF]({{< baseurl >}}/resources/final_project))
+"A Survey of Lynn Stakeholders Regarding Potential Waterfront Redevelopment" - Luke Schray, Emmaia Gelman, Angela Meehan, Laura Machala, and Aaron Stelson ({{% resource_link a110d9ce-6192-7760-cac7-8f5862a6365a "PDF" %}})
