@@ -5,6 +5,7 @@ description: 'Example of student work for the final project: a survey tool and r
   Corporation of Lynn, MA. The report is presented below. All work is courtesy of
   the students named and used with permission.'
 file: /courses/11-370-brownfields-policy-and-practice-fall-2005/a110d9ce61927760cac78f5862a6365a_final_project.pdf
+file_size: 206061
 file_type: application/pdf
 learning_resource_types:
 - Assignments
