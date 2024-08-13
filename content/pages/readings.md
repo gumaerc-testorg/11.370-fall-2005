@@ -209,7 +209,7 @@ Where does that Leave us?
 
 Letser, Stephen. "Brownfields to Greenfields? The Jury is Still Out." *Everyone's Backyard: Citizens Clearinghouse for Hazardous Waste* (Fall 1995): 12-16.
 
-Shutkin, William, and Rafael Mares. "Brownfields and the Redevelopment of Communities: Linking Health, Economy, and Justice." In [*Reclaiming the Environmental Debate: The Politics of Health in a Toxic Culture*](https://mitpress.mit.edu/0262082845). Cambridge, MA: MIT Press, 2000, pp. 57-75. ISBN: 0262082845.
+Shutkin, William, and Rafael Mares. "Brownfields and the Redevelopment of Communities: Linking Health, Economy, and Justice." In [*Reclaiming the Environmental Debate: The Politics of Health in a Toxic Culture*](https://mitpress.mit.edu/9780262581820/reclaiming-the-environmental-debate/). Cambridge, MA: MIT Press, 2000, pp. 57-75. ISBN: 0262082845.
 
 Wernstedt, Ken, et al. "[The Brownfields Phenomenon: Much Ado About Something or the Timing of the Shrewd](https://media.rff.org/archive/files/sharepoint/WorkImages/Download/RFF-DP-04-46.pdf)?" Discussion Paper 04-46. Washington, DC: Resources for the Future, 2004.
 
